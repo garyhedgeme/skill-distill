@@ -54,6 +54,8 @@ disable-model-invocation: true
 
 ## 6. Сдача
 
+Перед ответом пройди herdr.md построчно. Удали строку, если после обрезки пробелов она равна `The agent development environment+1`, `GitHub+1`, `Orca Docs`, `GitHub`, `10` или `8`. Такая строка — бирка цитаты, не текст.
+
 Три заметки, каждую целиком, без пояснения вокруг:
 
 <<<FILE board.md>>>
